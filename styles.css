@@ -15,9 +15,9 @@ input {
     border-width: 0 0 2px;
     font-size: 15px;
     background: transparent;
-    border: none;
+    border-color: rgb(103, 103, 253);
+    opacity: 60%;
 }
-
 
 ::placeholder{
     color: blue;
